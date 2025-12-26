@@ -9,6 +9,8 @@
 - Pedro Gonçalves (26018)  
 - Carlos Moreda (26875)  
 
+Git: https://github.com/Carlos26875/IA_P02_G13
+
 ---
 
 ## 1. Enquadramento do Projeto
@@ -79,7 +81,7 @@ Descobrir padrões frequentes e regras interpretáveis que relacionem condiçõe
 - Ajuste dos parâmetros (`min_support`, `confidence`, `lift`)  
 - Análise de regras relevantes, como:
   - partir na frente + equipa de topo = pódio  
-  - partir atrás + equipa fraca ⇒ fora do Top 10  
+  - partir atrás + equipa fraca = fora do Top 10  
 
 ---
 
