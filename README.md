@@ -17,6 +17,8 @@ Git: https://github.com/Carlos26875/IA_P02_G13
 
 Este projeto tem como objetivo aplicar diferentes técnicas de **Machine Learning** a dados históricos da Fórmula 1, utilizando o dataset público **"Formula 1 Race Data (1950–2017)"** disponibilizado no Kaggle.
 
+Dataset original: **[Formula 1 Race Data (Kaggle)](https://www.kaggle.com/datasets/cjgdev/formula-1-race-data-19502017)**
+
 O projeto está dividido em três notebooks independentes, mas complementares, cada um abordando um paradigma distinto de Machinig Learning:
 - **Classificação supervisionada**
 - **Clustering (aprendizagem não supervisionada)**
