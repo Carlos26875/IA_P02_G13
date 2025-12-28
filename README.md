@@ -9,7 +9,7 @@
 - Pedro Gonçalves (26018)  
 - Carlos Moreda (26875)  
 
-Git: https://github.com/Carlos26875/IA_P02_G13
+Git: **https://github.com/Carlos26875/IA_P02_G13**
 
 ---
 
